@@ -1,0 +1,2 @@
+Use this time to present and review midterm projects! This is also a great time to look back and review all of the concepts and new programming skills you have encountered thus far in the course. Be sure to ask questions and note similarities and differences between the various approaches you and your classmates took.
+<p class='util--hide'>View <a href='https://learn.co/lessons/midterm-project-presentations'>Midterm Project Presentations</a> on Learn.co and start learning to code for free.</p>
